@@ -1,0 +1,4 @@
+requests
+python-binance
+python-telegram-bot
+pandas
